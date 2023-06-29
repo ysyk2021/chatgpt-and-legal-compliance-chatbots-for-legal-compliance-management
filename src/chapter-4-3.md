@@ -3,11 +3,6 @@ Advantages of Using ChatGPT in Legal Compliance Management
 
 In this chapter, we will introduce ChatGPT and discuss the advantages of using this technology in legal compliance management.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is an advanced natural language processing (NLP) technology that enables chatbots to generate human-like responses to user inquiries. It is powered by artificial intelligence (AI) and machine learning algorithms, which enable it to learn from user interactions and improve its accuracy and relevance over time.
-
 Advantages of Using ChatGPT in Legal Compliance Management
 ----------------------------------------------------------
 

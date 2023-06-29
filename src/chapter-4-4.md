@@ -3,13 +3,6 @@ Case Studies on ChatGPT in Legal Compliance Management
 
 In this chapter, we will provide an introduction to ChatGPT and explore case studies on how ChatGPT has been used in legal compliance management.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a state-of-the-art generative chatbot that uses natural language processing (NLP) technology to simulate human conversation. It can generate responses based on user inquiries, allowing for more natural and contextually appropriate communication between organizations and their stakeholders.
-
-ChatGPT has several advantages over other types of chatbots, including its ability to understand complex language, handle multiple questions at once, and generate responses that are contextually relevant and personalized.
-
 Case Studies on ChatGPT in Legal Compliance Management
 ------------------------------------------------------
 
