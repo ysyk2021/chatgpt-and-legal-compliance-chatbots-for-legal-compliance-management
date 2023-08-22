@@ -1,5 +1,4 @@
-Evaluating ChatGPT's Performance and Effectiveness in Legal Compliance Management
-======================================================================================================================================================
+
 
 In this chapter, we will discuss how to evaluate ChatGPT's performance and effectiveness in legal compliance management. We will explore the key metrics that organizations should track to assess the success of their chatbot implementation.
 

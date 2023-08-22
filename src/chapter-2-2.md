@@ -1,5 +1,4 @@
-The History and Evolution of Legal Compliance Management
-==============================================================================================================
+
 
 In this chapter, we will explore the history and evolution of legal compliance management.
 

@@ -1,5 +1,4 @@
-Challenges and Limitations of Using Chatbots in Legal Compliance Management
-======================================================================================================================================
+
 
 In this chapter, we will explore the challenges and limitations of using chatbots and AI in legal compliance management.
 

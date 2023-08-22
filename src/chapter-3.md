@@ -1,5 +1,4 @@
-Chapter 2: Chatbots and AI in Legal Compliance Management
-=========================================================
+
 
 In this chapter, we will explore the use of chatbots and AI in legal compliance management. We will provide an overview of chatbots and AI in legal compliance management, discuss their advantages, describe the types of chatbots used in legal compliance management, and explore their challenges and limitations.
 

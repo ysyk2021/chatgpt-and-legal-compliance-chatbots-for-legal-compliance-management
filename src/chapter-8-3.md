@@ -1,5 +1,4 @@
-Limitations and Future Research Directions
-======================================================
+
 
 In this book, we have explored the use of chatbots and AI in legal compliance management. We have discussed the advantages of using these technologies, as well as their limitations and challenges.
 

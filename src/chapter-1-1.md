@@ -1,5 +1,4 @@
-Overview of the Book
-==================================
+
 
 This book explores the use of chatbots and AI in legal compliance management. Legal compliance management is a critical function for any organization that operates within a regulated industry or market. Non-compliance can result in significant penalties, reputational damage, and legal action.
 

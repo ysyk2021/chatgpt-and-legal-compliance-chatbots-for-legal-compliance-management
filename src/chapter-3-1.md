@@ -1,5 +1,4 @@
-An Overview of Chatbots and AI in Legal Compliance Management
-========================================================================================================================
+
 
 In this chapter, we will provide an overview of chatbots and AI in legal compliance management.
 

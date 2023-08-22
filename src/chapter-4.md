@@ -1,5 +1,4 @@
-Chapter 3: Introduction to ChatGPT
-==================================
+
 
 In this chapter, we will provide an introduction to ChatGPT and explore its features, advantages, and case studies in legal compliance management.
 

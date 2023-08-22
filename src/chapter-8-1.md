@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In this book, we have covered several key points related to the use of chatbots and AI in legal compliance management. These include:
 

@@ -1,5 +1,4 @@
-Objectives of the Book
-====================================
+
 
 The purpose of this book is to explore the use of chatbots and AI in legal compliance management. Legal compliance management is a critical function for any organization, as non-compliance can result in significant penalties, reputational damage, and legal action.
 

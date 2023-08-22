@@ -1,5 +1,4 @@
-Limitations and Challenges of Legal Compliance Management
-===============================================================================================================
+
 
 In this chapter, we will explore the limitations and challenges of legal compliance management.
 

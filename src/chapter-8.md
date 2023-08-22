@@ -1,5 +1,4 @@
-Conclusion
-==========
+
 
 In this book, we have explored the use of chatbots and AI in legal compliance management. We have discussed the advantages of using these technologies, the different types of chatbots used in legal compliance management, the limitations and challenges of using these technologies, and practical guidance on how to implement chatbots in compliance-related processes.
 

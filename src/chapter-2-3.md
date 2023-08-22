@@ -1,5 +1,4 @@
-Types of Legal Compliance Management Techniques Used Today
-================================================================================================================
+
 
 In this chapter, we will explore the different types of legal compliance management techniques used today.
 
