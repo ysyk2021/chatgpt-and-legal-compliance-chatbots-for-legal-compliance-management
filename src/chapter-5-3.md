@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss how ChatGPT uses data to improve legal compliance management. We will explore the ways in which chatbots powered by ChatGPT can analyze and leverage compliance-related data to enhance their accuracy and relevance.
 
 Data Analysis Capabilities of ChatGPT

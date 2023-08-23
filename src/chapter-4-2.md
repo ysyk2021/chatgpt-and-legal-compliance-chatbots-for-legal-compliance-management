@@ -1,5 +1,4 @@
 
-
 In this chapter, we will introduce the features of ChatGPT, an advanced natural language processing (NLP) technology that enables chatbots to generate human-like responses to user inquiries.
 
 Feature 1: Natural Language Understanding

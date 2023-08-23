@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an introduction to ChatGPT and explore case studies on how ChatGPT has been used in legal compliance management.
 
 Case Studies on ChatGPT in Legal Compliance Management

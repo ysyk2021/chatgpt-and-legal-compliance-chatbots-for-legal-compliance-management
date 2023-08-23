@@ -1,5 +1,4 @@
 
-
 In this book, we have covered several key points related to the use of chatbots and AI in legal compliance management. These include:
 
 * Legal compliance management is critical for organizations operating within regulated industries or markets.

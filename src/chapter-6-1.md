@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the planning and designing of ChatGPT for legal compliance management. We will cover the key considerations that organizations should keep in mind when designing their chatbot to meet the specific needs of their legal compliance management processes.
 
 Identify Key Stakeholders

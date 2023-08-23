@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the basics of legal compliance management. We will define what it is and its importance in organizations.
 
 Definition of Legal Compliance Management

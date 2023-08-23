@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the different types of legal compliance management techniques used today.
 
 Regulatory Compliance
@@ -31,5 +30,4 @@ Conclusion
 ----------
 
 Legal compliance management involves ensuring that an organization adheres to legal and regulatory requirements. There are several different types of legal compliance management techniques used today, including regulatory compliance, contractual compliance, internal compliance, industry-specific compliance, and global compliance. By understanding these different types of compliance, organizations can develop effective strategies for managing compliance-related risks and issues.
-
 

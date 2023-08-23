@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how ChatGPT works in legal compliance management. We will discuss the role of natural language processing (NLP) technology in ChatGPT, and how it can be used to automate routine tasks, enhance communication and engagement, and analyze compliance-related data.
 
 The Role of NLP Technology in ChatGPT

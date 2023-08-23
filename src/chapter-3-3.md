@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the different types of chatbots that are used in legal compliance management.
 
 Informational Chatbots
