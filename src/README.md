@@ -8,3 +8,7 @@ This book is divided into six chapters that cover the basics of legal compliance
 Whether you are a legal professional, business owner, or compliance officer, this book will provide valuable insights into the ways that ChatGPT technology can help you enhance your legal compliance strategy, minimize risk, and streamline compliance processes. By following best practices for implementation and leveraging the power of AI, businesses can optimize their legal compliance management and stay ahead of the curve.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
