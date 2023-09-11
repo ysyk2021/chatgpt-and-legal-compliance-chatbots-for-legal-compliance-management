@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of ChatGPT and its significance in the context of legal compliance management. Understanding what ChatGPT is and how it functions lays the foundation for comprehending its potential applications in the field of legal compliance.
 

@@ -1,5 +1,4 @@
-Chapter: Types of Legal Compliance Management Techniques Used Today
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore various types of legal compliance management techniques that organizations employ to ensure adherence to laws, regulations, and industry standards. Understanding these techniques helps organizations build robust legal compliance frameworks and leverage chatbots powered by ChatGPT effectively.
 

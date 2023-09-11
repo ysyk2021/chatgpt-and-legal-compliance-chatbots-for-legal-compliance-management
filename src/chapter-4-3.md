@@ -1,5 +1,4 @@
-Chapter: Advantages of Using ChatGPT in Legal Compliance Management
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the numerous advantages of using ChatGPT in the context of legal compliance management. Understanding the benefits of incorporating ChatGPT into compliance systems is crucial for organizations seeking to optimize their compliance processes and enhance user experiences.
 

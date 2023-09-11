@@ -1,5 +1,4 @@
-Chapter: Training ChatGPT and Managing Conversations
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the process of training ChatGPT and explore strategies for effectively managing conversations with legal compliance chatbots. Understanding how to train ChatGPT and handle conversations is crucial for optimizing the performance and user experience of the chatbot in the context of legal compliance management.
 

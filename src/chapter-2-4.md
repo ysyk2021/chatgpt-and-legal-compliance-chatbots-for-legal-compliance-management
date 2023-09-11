@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Legal Compliance Management
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss the limitations and challenges that organizations may encounter when implementing legal compliance management systems, including chatbots powered by ChatGPT. Understanding these limitations is crucial for developing strategies to address them effectively and ensure a successful compliance management framework.
 

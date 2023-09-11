@@ -1,5 +1,4 @@
-Chapter: The Features of ChatGPT
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the key features of ChatGPT, the technology behind legal compliance chatbots. Understanding these features is crucial for organizations seeking to leverage ChatGPT effectively in their legal compliance management processes.
 

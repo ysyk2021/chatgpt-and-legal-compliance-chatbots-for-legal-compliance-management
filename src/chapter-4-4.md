@@ -1,5 +1,4 @@
-Chapter: Case Studies on ChatGPT in Legal Compliance Management
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we present case studies that highlight the practical applications of ChatGPT and chatbots in legal compliance management. These real-world examples demonstrate how organizations have successfully leveraged ChatGPT to enhance accessibility, efficiency, and effectiveness in their compliance initiatives.
 

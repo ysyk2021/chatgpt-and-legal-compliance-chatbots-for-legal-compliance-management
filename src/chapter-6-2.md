@@ -1,5 +1,4 @@
-Chapter: Integration with Existing Legal Compliance Management Systems
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the integration of ChatGPT and legal compliance chatbots with existing legal compliance management systems. Understanding the process and benefits of integration is crucial for organizations seeking to enhance their legal compliance practices through AI technologies.
 

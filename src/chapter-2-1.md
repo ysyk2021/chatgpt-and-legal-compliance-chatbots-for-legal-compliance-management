@@ -1,5 +1,4 @@
-Chapter: What is Legal Compliance Management?
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we provide an overview of legal compliance management and its significance in modern organizations. Understanding the concept of legal compliance management lays the foundation for leveraging chatbots powered by ChatGPT effectively in this domain.
 

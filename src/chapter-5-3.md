@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Uses Data to Improve Legal Compliance Management
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how ChatGPT utilizes data to enhance legal compliance management. We delve into the ways in which data can be leveraged to improve accuracy, efficiency, and effectiveness in compliance-related tasks and decision-making.
 

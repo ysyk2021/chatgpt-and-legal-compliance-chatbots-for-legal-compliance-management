@@ -1,5 +1,4 @@
-Chapter: Emerging Trends in Chatbots and AI in Legal Compliance Management
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the emerging trends in chatbots and artificial intelligence (AI) that are shaping the landscape of legal compliance management. These trends highlight the advancements and potential applications of chatbots and AI in streamlining compliance processes, enhancing risk management, and fostering a culture of compliance.
 

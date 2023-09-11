@@ -1,5 +1,4 @@
-Chapter: Planning and Designing ChatGPT for Legal Compliance Management
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the process of planning and designing ChatGPT for legal compliance management. Understanding the key considerations involved in the planning and design phase is crucial for developing an effective and efficient chatbot that meets the specific needs of legal compliance.
 
